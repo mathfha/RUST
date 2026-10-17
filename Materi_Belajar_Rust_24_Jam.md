@@ -1,8 +1,8 @@
-# Materi Belajar Rust dalam 24 Jam untuk Vibe Coding
+# Materi Belajar Rust dalam 24 Jam 
 
 **Panduan teori, praktik, latihan, dan proyek akhir**
 
-Materi ini dikembangkan dari roadmap *Rust dalam 24 Jam — Peta Belajar buat Vibe Coding*. Fokusnya bukan menghafal syntax. Fokusnya adalah memahami cara Rust mengelola data, membaca pesan compiler, dan menilai kode Rust yang dibuat dengan bantuan AI.
+Materi ini dikembangkan dari roadmap *Rust dalam 24 Jam — Peta Belajar buat . Fokusnya bukan menghafal syntax. Fokusnya adalah memahami cara Rust mengelola data, membaca pesan compiler, dan menilai kode Rust yang dibuat dengan bantuan AI.
 
 > **Catatan waktu:** 24 jam adalah waktu belajar efektif, bukan 24 jam tanpa henti. Gunakan 4–6 jam per hari selama beberapa hari. Jika satu konsep belum terasa jelas, lanjutkan setelah mengerjakan praktiknya; jangan memaksa mengejar jadwal.
 
@@ -1599,7 +1599,7 @@ Tambahkan satu fitur pada satu waktu:
 
 ---
 
-# Workflow belajar dan vibe coding dengan Rust
+# Workflow belajar Rust
 
 ## Minta AI mengerjakan bagian kecil
 
